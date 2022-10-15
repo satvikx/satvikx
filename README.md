@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Satvik
 - 👀 I’m interested in Machine Learning and Web Development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me - ping me on satvik.shrivastava.exe@gmail.com
 
 <!---
