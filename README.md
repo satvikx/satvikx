@@ -18,20 +18,20 @@
 
 ### Tools and Technologies
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-C-000?&logo=C)
-![Replit](https://img.shields.io/badge/-C-000?&logo=C)
-![Git](https://img.shields.io/badge/-C-000?&logo=C)
-![HuggingFace](https://img.shields.io/badge/-C-000?&logo=C)
-![Kaggle](https://img.shields.io/badge/-C-000?&logo=C)
-![Firebase](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=AWS)
+![VS Code](https://img.shields.io/badge/-vscode-000?&logo=vscode)
+![Replit](https://img.shields.io/badge/-replit-000?&logo=replit)
+![Git](https://img.shields.io/badge/-git-000?&logo=git)
+![HuggingFace](https://img.shields.io/badge/-huggingface-000?&logo=huggingface)
+![Kaggle](https://img.shields.io/badge/-kaggle-000?&logo=kaggle)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Django](https://img.shields.io/badge/-C-000?&logo=C)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![PowerBI](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 
 ### Projects
 
