@@ -1,13 +1,13 @@
 ## Hey 👋, I'm Satvik!
 <a href='https://www.linkedin.com/in/xatvik/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/xatvik/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.leetcode.com/Satvikk/'>Lc<img alt="Leetcode" height='18px'/>
 <a href='https://www.kaggle.com/satvikkx/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 - 👀 I’m an aspiring Data Scientist and Django Developer.
 - 🌱 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 - 💞️ I’m looking to collaborate on new projects.
 - 🎸 When I'm not coding, I might be playing guitar.
+- 🧑🏽‍💻 Here's my [Leetcode](https://leetcode.com/Satvikk) Profile.
 - 📫 How to reach me - ping me on satvik.shrivastava.exe@gmail.com
 
 ### Languages
