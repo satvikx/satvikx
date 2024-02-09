@@ -12,19 +12,19 @@
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-Cpp-000?&logo=Cpp)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
 
 ### Tools and Technologies
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=AWS)
-![VS Code](https://img.shields.io/badge/-vscode-000?&logo=vscode)
-![Replit](https://img.shields.io/badge/-replit-000?&logo=replit)
-![Git](https://img.shields.io/badge/-git-000?&logo=git)
-![HuggingFace](https://img.shields.io/badge/-huggingface-000?&logo=huggingface)
-![Kaggle](https://img.shields.io/badge/-kaggle-000?&logo=kaggle)
+![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=code)
+![Replit](https://img.shields.io/badge/-Replit-000?&logo=Replit)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![HuggingFace](https://img.shields.io/badge/-Huggingface-000?&logo=huggingface)
+![Kaggle](https://img.shields.io/badge/-Kaggle-000?&logo=kaggle)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
@@ -35,9 +35,9 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🧬%20AarogyaMitra-000)](https://github.com/satvikx/AarogyaMitra)
+[![](https://img.shields.io/badge/-🦠%20AIClubOIST-000)](https://github.com/satvikx/AIClubWebsite)
+[![](https://img.shields.io/badge/-📝%Junk%20Image%20Classifier-000)](https://github.com/satvikx/Junk-Image-Classifier)
 
 <!---
 satvikx/satvikx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
