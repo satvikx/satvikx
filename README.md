@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Satvik!
 <a href='https://www.linkedin.com/in/xatvik/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/xatvik/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.leetcode.com/Satvikk/'><img alt="kaggle" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height='18px'/>
-<a href='https://www.kaggle.com/satvikkx/'>LC<img alt="Linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.leetcode.com/Satvikk/'>Lc<img alt="Leetcode" height='18px'/>
+<a href='https://www.kaggle.com/satvikkx/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 - 👀 I’m an aspiring Data Scientist and Django Developer.
 - 🌱 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -38,6 +38,7 @@
 [![](https://img.shields.io/badge/-🧬%20AarogyaMitra-000)](https://github.com/satvikx/AarogyaMitra)
 [![](https://img.shields.io/badge/-🦠%20AIClubOIST-000)](https://github.com/satvikx/AIClubWebsite)
 [![](https://img.shields.io/badge/-📝%Junk%20Image%20Classifier-000)](https://github.com/satvikx/Junk-Image-Classifier)
+<br></br>Explore more projects below👇-
 
 <!---
 satvikx/satvikx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
